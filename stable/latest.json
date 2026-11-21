@@ -1,0 +1,12 @@
+{
+  "version": "1.1.3",
+  "notes": "Lumora 1.1.3：更新播放稳定性、Jarvis 集成与应用内更新体验。",
+  "pub_date": "2026-11-21T00:00:00Z",
+  "sha256": "00c756dd801568b34805791c24fdb987204d6ebfe3d9736258ae2c17e27d52c7",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/DrFUT/Lumora-Releases/releases/download/v1.1.3/Lumora_1.1.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFZzNFBnUTllelVQcVZ4ZDF2TGg3azg2QUVIUDNKUnptNEluQmpFZ2ljNmExNmN0TzExd21raENDNHhEVVU2VGtHZXpUZ2tBVk83T3pXQ2NId2NzNEpvU1dZSC8zTEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjQwNjcxCWZpbGU6THVtb3JhIEphcnZpcyBJbnRlZ3JhdGlvbl8xLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjMKNEpZRGQva1dQREdBRVZmdldVNkoraExJQStpSnlweU9oS3VtM292SUd0eWd5TE5XWDBOeVBsMUkxT3dXSmp4Mkx2Z04zcHd0ZFJLRk94SzBPdlE1QXc9PQo="
+    }
+  }
+}
